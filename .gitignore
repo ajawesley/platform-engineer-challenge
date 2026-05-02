@@ -1,0 +1,8 @@
+# Go / Python / Node (refine later)
+.env
+*.log
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
